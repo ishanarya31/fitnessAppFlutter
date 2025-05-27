@@ -19,7 +19,8 @@ A simple front-end diet app built using **Flutter** that helps you stay on track
 
 ## 📷 Screenshots
 
-*![Meal Plan](assets/icons/ss.jpeg)*
+<img src="assets/icons/ss.jpeg" width="250" />
+
 
 
 ## 📁 Project Structure
